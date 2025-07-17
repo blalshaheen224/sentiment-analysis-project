@@ -266,7 +266,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Built with by [blal shaheen]
 
